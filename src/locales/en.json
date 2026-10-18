@@ -1,0 +1,244 @@
+{
+  "site": {
+    "name": "Brushland Game Wiki",
+    "shortName": "Brushland",
+    "tagline": "Fan-Made Wiki",
+    "description": "Fan wiki for Brushland, the fairytale kingdom-builder by Transhuman Design where you paint the land and villagers move in — paint mechanics, villager AI, release news and guides.",
+    "legalNotice": "Independent fan wiki. Not affiliated with Transhuman Design."
+  },
+  "nav": {
+    "guides": "Guides",
+    "features": "Paint & People",
+    "comparisons": "Comparisons",
+    "faq": "FAQ",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
+  "home": {
+    "meta": {
+      "title": "Brushland Game Wiki: Paint the Land Kingdom Builder",
+      "description": "Brushland is the fairytale kingdom-builder where you paint mountains, rivers and roads and villagers move in — mechanics, reveal trailer, release news and guides."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Wiki",
+      "title": "Brushland",
+      "description": "Brushland is a cozy fairytale kingdom-builder from Transhuman Design: you paint the land directly — mountains, rivers, waterfalls, roads — and the kingdom builds itself. Villagers move in automatically, and houses change appearance depending on their surroundings, so every painted hillside grows into a living storybook village. Revealed with an official trailer at The MIX Fall Game Showcase on October 16, 2026, and now wishlishtable on Steam, this wiki tracks Brushland from reveal to release: how the painting works, what the villagers and houses do, what the trailer shows, and when you can play it.",
+      "primaryCta": "Read the Complete Guide",
+      "secondaryCta": "Watch the Reveal Trailer",
+      "tertiaryCta": "All Guides",
+      "stats": ["Paint the Land", "The Kingdom Builds Itself", "Revealed Oct 16, 2026", "Coming to Steam"]
+    },
+    "updates": {
+      "title": "Fresh From the Canvas",
+      "browse": "Browse All Guides",
+      "viewAll": "View All"
+    },
+    "start": {
+      "eyebrow": "Your First Kingdom In Four Steps",
+      "title": "From Blank Canvas to Storybook Village",
+      "cards": [
+        { "number": "1", "title": "Know the Game", "description": "Brushland was revealed October 16, 2026 with an official trailer at The MIX Fall Showcase — the complete guide covers the premise, the studio and why it went viral." },
+        { "number": "2", "title": "Learn the Painting", "description": "Terrain is a paintbrush: mountains, rivers, waterfalls and roads are strokes — the paint mechanics guide covers every brush the trailer shows." },
+        { "number": "3", "title": "Meet the Villagers", "description": "You never place buildings — villagers move in on their own and houses adapt to surroundings — the villager guide covers the kingdom that builds itself." },
+        { "number": "4", "title": "Track the Release", "description": "Coming to Steam with no date announced yet — the release guide collects every signal from the Steam page to the studio's channels." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Most-Read This Week",
+      "title": "Trending Now",
+      "quickLinks": ["Paint", "Villagers", "Release", "Townscaper"],
+      "cards": [
+        { "title": "Brushland Game Guide", "description": "The complete orientation — what Brushland is, who made it and what the reveal showed." },
+        { "title": "Paint Mechanics", "description": "Mountains, rivers, waterfalls and roads as brushstrokes — the terrain system explained." },
+        { "title": "Villagers & Houses", "description": "The kingdom that builds itself — how settlers choose homes and houses change with surroundings." },
+        { "title": "vs Townscaper", "description": "The paint-your-world comparison — two cozy masterpieces, two very different brushes." }
+      ]
+    },
+    "aboutGame": {
+      "title": "What Is Brushland?",
+      "paragraphs": [
+        "Brushland is a kingdom-builder with the soul of a picture book, developed by Transhuman Design — the veteran indie studio whose developer Michał introduced the game on its new Steam page. The premise in one breath: you paint the land, and the kingdom builds itself. Mountains rise where you stroke a ridge, rivers run where you draw a valley, waterfalls pour off your painted cliffs — and villagers, unprompted, move in, settle, and raise houses that change appearance depending on what surrounds them. There are no grids and no placement menus; the terrain brush is the entire interface, and the fairytale kingdom is its consequence.",
+        "The game went viral on October 16, 2026, when the official gameplay trailer debuted at The MIX Fall Online Game Showcase and social channels like Indie Game Joe amplified it to a huge audience overnight — a brand-new word entering the gaming vocabulary in a single day. Brushland is coming to Steam (wishlist open, release date unannounced), and this wiki follows it from reveal to release: the mechanics, the world, the comparisons and every release signal in between."
+      ],
+      "stats": [
+        { "label": "Developer", "value": "Transhuman Design" },
+        { "label": "Genre", "value": "Kingdom Builder" },
+        { "label": "Hook", "value": "Paint the Land" },
+        { "label": "Revealed", "value": "Oct 16, 2026" },
+        { "label": "Platform", "value": "Steam (PC)" },
+        { "label": "Status", "value": "Wishlist Open" }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Everything About Brushland, Mapped",
+      "description": "Guides, systems, comparisons and answers — the complete toolkit.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Brushland Game Guide",
+          "description": "The complete orientation.",
+          "href": "/guide/brushland-game-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "The premise — paint the land, kingdom builds itself" },
+            { "label": "2", "detail": "Transhuman Design and the viral reveal" },
+            { "label": "3", "detail": "What's known and what's still hidden" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Paint Mechanics",
+          "description": "The terrain brush system.",
+          "href": "/guide/paint-mechanics",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Mountains and ridges as brushstrokes" },
+            { "label": "2", "detail": "Rivers, waterfalls and roads" },
+            { "label": "3", "detail": "What the trailer shows of editing and undo" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "The Reveal Trailer, Frame by Frame",
+          "description": "Everything the video showed.",
+          "href": "/guide/trailer-breakdown",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "The painting-in-action sequences" },
+            { "label": "A", "detail": "Villager behavior and house adaptation moments" },
+            { "label": "B", "detail": "The scenery set-pieces and mood" },
+            { "label": "C", "detail": "What the trailer deliberately doesn't show" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Release Guide",
+          "description": "When can you play it.",
+          "href": "/guide/release-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "Steam", "detail": "Page live, wishlist open, date unannounced — every release signal collected and dated", "badge": "Tracking" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Villagers & Houses",
+          "description": "The self-building kingdom.",
+          "href": "/features/villagers-and-houses",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🏘", "detail": "Villagers move in on their own — no placement menus" },
+            { "label": "🏠", "detail": "Houses change appearance with surroundings" },
+            { "label": "🎨", "detail": "Your painting decisions shape their lives" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "The Painting System",
+          "description": "Terrain as interface.",
+          "href": "/features/painting-system",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Landforms — mountains, valleys, cliffs" },
+            { "label": "A", "detail": "Water — rivers, waterfalls, lakes" },
+            { "label": "B", "detail": "Paths and roads connecting the kingdom" },
+            { "label": "C", "detail": "The cozy sandbox feel it all produces" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "vs Townscaper",
+          "description": "The paint-your-world duel.",
+          "href": "/comparisons/vs-townscaper",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Two brushes: painting terrain vs placing blocks" },
+            { "label": "2", "detail": "Two kingdoms: settlers vs silent towns" },
+            { "label": "3", "detail": "Which cozy world for which player" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "The straight answers.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "❓", "detail": "Release date? Platforms? Price?" },
+            { "label": "🕹", "detail": "How do you actually control the painting?" },
+            { "label": "🖼", "detail": "Is it out? Can I play the trailer build?" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about Brushland.",
+      "items": [
+        { "question": "What is Brushland?", "answer": "A cozy fairytale kingdom-builder from Transhuman Design where you paint the land — mountains, rivers, waterfalls and roads — and the kingdom builds itself: villagers move in automatically and houses change appearance depending on their surroundings. It was revealed October 16, 2026 with an official trailer at The MIX Fall Game Showcase." },
+        { "question": "When does Brushland release?", "answer": "No date yet. The Steam page is live with wishlists open and the game is described as coming soon; the release guide tracks every dated signal from the studio and the store page as they appear." },
+        { "question": "Who made Brushland?", "answer": "Transhuman Design, a veteran independent studio — the developer Michał introduced the game personally on the Steam page. The studio's catalog spans multiplayer and creative indie titles; Brushland is its cozy storybook turn." },
+        { "question": "How does the painting actually work?", "answer": "Terrain is the interface: you brush landforms and water onto the world and the game grows them into full geography — then the villagers take over, settling and adapting houses to whatever you painted. The paint mechanics guide covers every brush the trailer reveals." }
+      ]
+    },
+    "finalCta": {
+      "title": "The canvas is waiting.",
+      "description": "The guides, the mechanics, the trailer breakdown and the release watch — everything Brushland from reveal day one.",
+      "primary": "Read the Complete Guide",
+      "secondary": "The Steam Page"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki Navigation",
+    "activeCodes": "Release Tracker",
+    "updated": "Updated",
+    "viewAllCodes": "View all guides",
+    "inThisSection": "In this section",
+    "tableOfContents": "Table of Contents",
+    "nextSteps": "Next Steps",
+    "needHelp": "Need Help?",
+    "relatedReading": "Related Reading",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Brushland Game Wiki",
+    "about": "Brushland Game Wiki is an independent fan-built wiki covering the fairytale kingdom-builder from Transhuman Design — paint mechanics, villager AI, the reveal trailer and the release watch, written from the reveal onward and updated as the game approaches Steam.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "legal": "Legal",
+    "copyright": "2026 Brushland Game Wiki. Not affiliated with Transhuman Design. Brushland is a trademark of its respective owner.",
+    "description": "The Brushland wiki — paint the land, villagers move in: mechanics, trailer and release news.",
+    "playGame": "Steam Page",
+    "officialDiscord": "Community",
+    "officialYoutube": "Reveal Trailer",
+    "epicStore": "Steam",
+    "beginnerGuide": "Complete Guide",
+    "mapGuides": "Paint Mechanics",
+    "weaponsGuides": "Villagers & Houses",
+    "buildGuide": "vs Townscaper",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guides",
+    "overviewDescription": "Every Brushland guide — the complete orientation, the paint mechanics, the trailer breakdown and the release watch."
+  },
+  "features": {
+    "overviewTitle": "Paint & People",
+    "overviewDescription": "The painting system and the self-building kingdom — terrain as interface, villagers as consequence."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparisons",
+    "overviewDescription": "Brushland against its cozy cousins — Townscaper and the paint-your-world lineage."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Straight answers about Brushland — the release, the studio, the painting and the platforms."
+  }
+}

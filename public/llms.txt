@@ -1,0 +1,27 @@
+# Brushland Game Wiki
+
+> Fan wiki for Brushland, the fairytale kingdom-builder by Transhuman Design where you paint the land and villagers move in — paint mechanics, villager AI, release news and guides.
+
+Site: https://brushlandgame.wiki
+
+## Guides
+
+- Brushland Game Guide — the complete orientation: https://brushlandgame.wiki/guide/brushland-game-guide
+- Paint Mechanics — terrain as brushstrokes: https://brushlandgame.wiki/guide/paint-mechanics
+- Trailer Breakdown — the reveal, frame by frame: https://brushlandgame.wiki/guide/trailer-breakdown
+- Release Guide — every dated signal: https://brushlandgame.wiki/guide/release-guide
+
+## Paint & People
+
+- Villagers & Houses — the self-building kingdom: https://brushlandgame.wiki/features/villagers-and-houses
+- The Painting System — landforms, water and roads: https://brushlandgame.wiki/features/painting-system
+
+## Comparisons
+
+- vs Townscaper — the paint-your-world duel: https://brushlandgame.wiki/comparisons/vs-townscaper
+
+## FAQ
+
+- Brushland FAQ — the straight answers: https://brushlandgame.wiki/faq/faq
+
+Independent fan wiki. Not affiliated with Transhuman Design.

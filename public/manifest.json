@@ -1,0 +1,13 @@
+{
+  "name": "Brushland Game Wiki",
+  "short_name": "Brushland",
+  "description": "Fan wiki for Brushland, the fairytale kingdom-builder by Transhuman Design where you paint the land and villagers move in — paint mechanics, villager AI, release news and guides.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6ec",
+  "theme_color": "#4a8f5c",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
